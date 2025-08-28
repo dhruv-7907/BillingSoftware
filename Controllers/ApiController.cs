@@ -26,7 +26,7 @@ namespace Billing.Controllers
                {
                    return Ok(new
                    {
-                       Message = "Hello from a private-scoped endpoint now Latest Changes"
+                       Message = "Patel Dhruv"
                    });
                }
     }
